@@ -1,5 +1,6 @@
-#Meanfield Approximation with Ising Model
-##Introduction to Ising Model
+# Meanfield Approximation with Ising Model
+
+## Introduction to Ising Model
 
 ![slide1](./markdown/page2.png)
 ![slide2](./markdown/page3.png)
@@ -11,7 +12,7 @@
 ![slide5](./markdown/page6.jpg)
 ![slide6](./markdown/page7.jpg)
 
-##Result
+## Result
 ![Result](./markdown/Result.PNG)
 
 
